@@ -1,0 +1,7 @@
+<messagebundle>
+  <msg name="task_number">Number of tasks shown</msg>
+  <msg name="green_sort">Green state sorted by</msg>
+  <msg name="green_sort_ratio">ratio</msg>
+  <msg name="green_sort_date">date</msg>
+  <msg name="add_new_task">Add a new task</msg>  
+</messagebundle> 
