@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Help Page</title>
+<style>
+.help_text              { font-size: 8pt; }
+</style>
+</head>
+<body>
+
+<b>States:</b><br>
+There are four states which a task can be in:
+<table border=1 class='help_text'>
+<tr>	
+    <td><img border='0' width='22px' height='22px' src='http://prioritized-task-list.googlecode.com/files/green_button.gif'></td>
+    <td>The green state is a non urgent state which indicates that the task does not yet need attention.</td>
+</tr><tr>
+    <td><img border='0' width='22px' height='22px' src='http://prioritized-task-list.googlecode.com/files/yellow_button.gif'></td>
+    <td>The yellow state is the warning state. A task enters into this state when the warning time specified when creating the task is reached. At this point the task should be given some attention.</td>
+</tr><tr> 
+    <td><img border='0' width='22px' height='22px' src='http://prioritized-task-list.googlecode.com/files/red_button.gif'></td>
+    <td>The red state is the critical state. A task enters into this state when 75% or more of the warning time has elapsed and the task has not been completed. At this point the task should be completed soon or else the target completion time may be missed.</td>
+</tr><tr>
+    <td><img border='0' width='22px' height='22px' src='http://prioritized-task-list.googlecode.com/files/black_button.gif'></td>
+    <td>The black state is the missed state. This state is achieved when a task has gone past it’s completion date without being completed.</td> 
+</tr>
+</table>
+
+<b>Priorites:</b><br>
+There are six different levels of priority which can affect how your tasks are sorted. They are: 
+(1 Vital)&nbsp;&nbsp;(2 Critical)&nbsp;&nbsp;(3 Important)&nbsp;&nbsp;(4 Normal)&nbsp;&nbsp;(5 Unimportant)&nbsp;&nbsp;(6 Unnecessary)<br>
+<b><i>The Unnecessary</i></b> task is a special task which will act a little different from the other tasks. Unnecessary tasks will not turn to red or black this type of task will remain yellow even when the critical state is hit. It will also automatically be checked off when the completion time is hit.<br>
+
+<b>Sorting:</b><br>
+All tasks are first sorted by their states. Missed tasks will appear first followed by critical, warning and finally the non urgent tasks. Once the tasks have been separated and ordered into their states, if a task is in the missed, critical or warning states, the task is first sorted first by priority and then by completion time. This means any task that has a higher priority will appear first even if it’s completion time is later then some of the others. The non-urgent tasks can be sorted one of two ways depending on a config setting.  The first way is by date. This option will sort the tasks strictly by their completion date. The second option is to sort by “ratio”. This option will sort the tasks by a ratio of (time sedualed to now) / (now to the warning time). This will cause tasks to be placed at the bottom of the task list and bubble up to the top at different rates depending on how often they occur or how long ago they were scheduled.  By default non-urgent tasks are sorted by “date” to make it easier to understand, but I encourage you to try the “ratio’ sort. <br>
+
+<b>Languages/date formats</b><br>
+Haven’t gotten these done yet, but if there is enough interest I’ll try and put a rush on it.<br>
+Thanks,<br>
+htmlprofessional
+
+</body>
+</html>
