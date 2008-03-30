@@ -60,7 +60,7 @@
   <msg name="states_black_text">The black state is the missed state. This state is achieved when a task has gone past it’s completion date without being completed.</msg>
   <msg name="priorities_priorities">Priorities</msg>
   <msg name="priorities_header">There are six different levels of priority which can affect how your tasks are sorted. They are:</msg>
-  <msg name="priorities_footer">&lt;b&gt;&lt;i&gt;The Unnecessary&lt;/i&gt;&lt;/b&gt; task is a special task which will act a little different from the other tasks. 
+  <msg name="priorities_footer"><b><i>The Unnecessary</i></b> task is a special task which will act a little different from the other tasks. 
 Unnecessary tasks will not turn to red or black, but will remain yellow even when the critical state is hit. 
 It will also automatically be checked off when the completion time is hit.</msg>
   <msg name="sorting_sorting">Sorting:</msg>
@@ -73,7 +73,7 @@ config setting.  The first way is by date. This option will sort the tasks stric
 The second option is to sort by 'ratio'. This option will sort the tasks by a ratio of (time scedualed to now) 
 / (now to the warning time). This will cause tasks to be placed at the bottom of the task list and bubble up 
 to the top at different rates, depending on how often they occur or how long ago they were scheduled.  By 
-default non-urgent tasks are sorted by “date” to make it easier to understand, but I encourage you to try the 
+default non-urgent tasks are sorted by 'date' to make it easier to understand, but I encourage you to try the 
 'ratio’ sort.</msg>
   <msg name="lang_lang">Languages/Date Formats</msg>
   <msg name="lang_lang_text">I currently only support English and Japanese. If you'd like additional laguages or would like to 
