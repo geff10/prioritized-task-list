@@ -10,6 +10,7 @@
   <msg name="show_priority">Show priority</msg>
   <msg name="show_date">Show date</msg>
   <msg name="show_time">Show time</msg>
+  <msg name="show_recurrence">Show Recurrence</msg>
   <msg name="date_format">Date Format</msg>
   <msg name="add_task_img">http://prioritized-task-list.googlecode.com/svn/trunk/add_task.gif</msg>
   <msg name="help_img">http://prioritized-task-list.googlecode.com/svn/trunk/help.gif</msg>
