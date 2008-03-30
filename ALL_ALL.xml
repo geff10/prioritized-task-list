@@ -29,7 +29,7 @@
   <msg name="cancel_edit">Cance Edit</msg>
   <msg name="name_label">Name</msg>
   <msg name="priority_label">Priority</msg>
-  <msg name="unnecessary_note">Note: Unnecessary tasks will not escalate to a red state and will automaticly&lt;br&gt; complete once the completion time is reached.</msg>
+  <msg name="unnecessary_note">Note: Unnecessary tasks will not escalate to a red state and will automaticly complete once the completion time is reached.</msg>
   <msg name="complete_by_label">Complete by</msg>
   <msg name="am">am</msg>
   <msg name="pm">pm</msg>
@@ -60,7 +60,7 @@
   <msg name="states_black_text">The black state is the missed state. This state is achieved when a task has gone past it’s completion date without being completed.</msg>
   <msg name="priorities_priorities">Priorities</msg>
   <msg name="priorities_header">There are six different levels of priority which can affect how your tasks are sorted. They are:</msg>
-  <msg name="priorities_footer"><b><i>The Unnecessary</i></b> task is a special task which will act a little different from the other tasks. 
+  <msg name="priorities_footer">The Unnecessary task is a special task which will act a little different from the other tasks. 
 Unnecessary tasks will not turn to red or black, but will remain yellow even when the critical state is hit. 
 It will also automatically be checked off when the completion time is hit.</msg>
   <msg name="sorting_sorting">Sorting:</msg>
