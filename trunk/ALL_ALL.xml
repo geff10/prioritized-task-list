@@ -53,6 +53,7 @@
   <msg name="help_priority_info">Priority Info</msg>
   <msg name="help_sorting_info">Sorting Info</msg>
   <msg name="help_language_info">Language Info</msg>
+  <msg name="help_import_info">Import/Export</msg>
   <msg name="states_states">States</msg>
   <msg name="states_header">There are four states which a task can be in</msg>
   <msg name="states_green_text">The green state is a non urgent state which indicates that the task does not yet need attention.</msg>
@@ -80,9 +81,17 @@ default non-urgent tasks are sorted by 'date' to make it easier to understand, b
   <msg name="lang_lang_text">I currently only support English and Japanese. If you'd like additional laguages or would like to 
                         try translate for another language, please update the gadgets message board.</msg>
   <msg name="lang_date_text">Currently I support MM/DD/YYYY, and DD/MM/YYYY. Let me know if there are any other fromats you wish to see and I'll add them.</msg>
+  <msg name="import_export">Import/Export</msg>
+  <msg name="import_text">I added this feature so I could export my checklist into another account. This task list is also in it's early versions and I wanted to make sure I could restore my tasklist just in case an error occures, but I'm hoping nothing like that will happen (crossing fingers).</msg>
+  <msg name="import_header">To import a saved version of your tasklist, copy an the exported text into the blank below and click import:</msg>
+  <msg name="import_button">Import Tasks</msg>
+  <msg name="export_header">To export your tasks simply click the export button and copy the text out of the field below and save it into a text document:</msg>
+  <msg name="export_button">Export Tasks</msg>
   <msg name="add_new_task">Add a new task</msg>
   <msg name="add_task">Add Task</msg>
   <msg name="update_task">Update </msg>
   <msg name="update_button">Update Task</msg>
   <msg name="remove_button">Remove Task</msg>
+  <msg name="good_import">Tasks have been imported.</msg>
+  <msg name="bad_import">Tasks failed to import! Invalid import format!</msg>
 </messagebundle> 
