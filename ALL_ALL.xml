@@ -82,7 +82,7 @@ default non-urgent tasks are sorted by 'date' to make it easier to understand, b
                         try translate for another language, please update the gadgets message board.</msg>
   <msg name="lang_date_text">Currently I support MM/DD/YYYY, and DD/MM/YYYY. Let me know if there are any other fromats you wish to see and I'll add them.</msg>
   <msg name="import_export">Import/Export</msg>
-  <msg name="import_text">I added this feature so I could export my checklist into another account. This task list is also in it's early versions and I wanted to make sure I could restore my tasklist just in case an error occures, but I'm hoping nothing like that will happen (crossing fingers).</msg>
+  <msg name="import_text">This task list is also in it's early versions and I wanted to make sure I could restore my tasklist just in case an error occures, but I'm hoping nothing like that will happen (crossing fingers).</msg>
   <msg name="import_header">To import a saved version of your tasklist, copy an the exported text into the blank below and click import:</msg>
   <msg name="import_button">Import Tasks</msg>
   <msg name="export_header">To export your tasks simply click the export button and copy the text out of the field below and save it into a text document:</msg>
