@@ -1,0 +1,1 @@
+This google gadget is more than a simple to-do list. This list will dynamically sort your tasks based on priority and completion date. It also allows for reoccurring tasks, such as birthdays or taking out the garbage. It's perfect for those people who are extremely busy or {like myself} very absent minded.
